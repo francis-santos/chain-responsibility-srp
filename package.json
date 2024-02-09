@@ -1,0 +1,20 @@
+{
+  "name": "chain-responsibility-srp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francis-santos/chain-responsibility-srp.git"
+  },
+  "author": "Francis G. Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francis-santos/chain-responsibility-srp/issues"
+  },
+  "homepage": "https://github.com/francis-santos/chain-responsibility-srp#readme"
+}
